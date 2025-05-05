@@ -1,0 +1,31 @@
+6
+Andrei Popescu
+0722123456
+prieten
+andrei.popescu@gmail.com
+1
+Maria Ionescu
+0743987654
+colaborator
+maria.ionescu@yahoo.com
+0
+Alexandru Georgescu
+0766555777
+familie
+alex.g@gmail.com
+0
+Ioana Dumitrescu
+0711444222
+serviciu
+ioana.d@gmail.com
+1
+Radu Marinescu
+0755888999 
+client
+radu.marinescu@gmail.com
+0
+Alexandru Vasilescu
+0788666333
+prieten
+alexandru.vasilescu@gmail.com
+0
