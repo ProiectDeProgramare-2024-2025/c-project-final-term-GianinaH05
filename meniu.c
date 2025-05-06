@@ -340,6 +340,12 @@ int cautare(int a)
         char b[100];
         printf("Introduceti emailul contactului\n");
         scanf("%s",b);
+        while(!estemail(b))
+        {
+            printf("Emailul nu este valid. Trebuie sa fie <utilizator>@<domeniu>.<extensie>\n");
+            printf("Introduceti emailul contactului: ");
+            scanf("%s",b);
+        }
         for(int i=0;i<numerecontacte;i++)
         {
             if(strcmp(b,telefon[i].email)==0)
